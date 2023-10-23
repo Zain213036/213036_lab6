@@ -1,0 +1,15 @@
+C:\Users\213036\source\repos\213036_Q1\213036_Q1\obj\Debug\net6.0\213036_Q1.csproj.AssemblyReference.cache
+C:\Users\213036\source\repos\213036_Q1\213036_Q1\obj\Debug\net6.0\213036_Q1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\213036\source\repos\213036_Q1\213036_Q1\obj\Debug\net6.0\213036_Q1.AssemblyInfoInputs.cache
+C:\Users\213036\source\repos\213036_Q1\213036_Q1\obj\Debug\net6.0\213036_Q1.AssemblyInfo.cs
+C:\Users\213036\source\repos\213036_Q1\213036_Q1\obj\Debug\net6.0\213036_Q1.csproj.CoreCompileInputs.cache
+C:\Users\213036\source\repos\213036_Q1\213036_Q1\bin\Debug\net6.0\213036_Q1.exe
+C:\Users\213036\source\repos\213036_Q1\213036_Q1\bin\Debug\net6.0\213036_Q1.deps.json
+C:\Users\213036\source\repos\213036_Q1\213036_Q1\bin\Debug\net6.0\213036_Q1.runtimeconfig.json
+C:\Users\213036\source\repos\213036_Q1\213036_Q1\bin\Debug\net6.0\213036_Q1.dll
+C:\Users\213036\source\repos\213036_Q1\213036_Q1\bin\Debug\net6.0\213036_Q1.pdb
+C:\Users\213036\source\repos\213036_Q1\213036_Q1\obj\Debug\net6.0\213036_Q1.dll
+C:\Users\213036\source\repos\213036_Q1\213036_Q1\obj\Debug\net6.0\refint\213036_Q1.dll
+C:\Users\213036\source\repos\213036_Q1\213036_Q1\obj\Debug\net6.0\213036_Q1.pdb
+C:\Users\213036\source\repos\213036_Q1\213036_Q1\obj\Debug\net6.0\213036_Q1.genruntimeconfig.cache
+C:\Users\213036\source\repos\213036_Q1\213036_Q1\obj\Debug\net6.0\ref\213036_Q1.dll
